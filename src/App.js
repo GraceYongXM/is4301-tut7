@@ -6,6 +6,7 @@ import Reset from "./Reset";
 import Dashboard from "./Dashboard";
 
 function App() {
+  print("hi");
   return (
     <div className="app">
       <Router>
